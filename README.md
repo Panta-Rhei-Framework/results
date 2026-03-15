@@ -1,2 +1,1 @@
-# results
-Official public results-atlas surface for the Panta Rhei framework.
+# Panta Rhei Results\n\nOfficial public results-atlas surface for the framework. Wiki content is generated from the private Atlas source.\n
